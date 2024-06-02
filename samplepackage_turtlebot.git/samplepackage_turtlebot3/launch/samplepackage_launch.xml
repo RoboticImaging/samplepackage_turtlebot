@@ -1,0 +1,8 @@
+<launch>
+  <node
+    pkg="samplepackage_turtlebot3"
+    exec="samplepackage_turtlebot3"
+    name="samplepackage_turtlebot3"
+    output="screen">
+  </node>
+</launch>
